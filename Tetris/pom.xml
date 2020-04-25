@@ -3,4 +3,10 @@
   <groupId>TetrisGroup</groupId>
   <artifactId>Tetris</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <properties>
+		<maven.compiler.source>12</maven.compiler.source>
+		<maven.compiler.target>12</maven.compiler.target>
+	</properties>
+	
 </project>
